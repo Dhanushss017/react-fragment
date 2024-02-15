@@ -1,5 +1,6 @@
-Fragmenting a React component into smaller and focused components 
+**Before and after folder i added inside the src folder**
 
+Fragmenting a React component into smaller and focused components 
 BurnPage: This component will act as a container and will render the other components.
 BurnInfoBox: This component will render the title, description, and burn button bar.
 BurnStats: This component will render the burn statistics.
